@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🤝 i'm actively looking for a fully remote software engineering role<br>🌱 i'm currently learning: next.js and go lang<br>💬 ask me about: travel, maps, sports, home-brewing, javascript<br>⚡️ fun facts:<br>- i've been to 19 countries (17 in the past 7 years), and 43/50 US states<br>- i started playing ice hockey 1.5 years ago with zero skating experience<br>- i played D1 and D2 lacrosse in college<br>- i served 6 years as a Sergeant in the US Army<br>- i have 2 masters degrees (business management and GIS)
+🤝 i'm actively looking for a fully remote software engineering role<br>🌱 i'm currently learning: next.js and go lang<br>💬 ask me about: travel, maps, sports, home-brewing, javascript<br>⚡️ fun facts:<br>- i've been to 21 countries (19 in the past 8 years), and 43/50 US states<br>- i started playing ice hockey 3 years ago with zero skating experience<br>- i played D1 and D2 lacrosse in college<br>- i served 6 years as a Sergeant in the US Army<br>- i have 2 masters degrees (business management and GIS)
 
 
 ## 🌐 Socials:
